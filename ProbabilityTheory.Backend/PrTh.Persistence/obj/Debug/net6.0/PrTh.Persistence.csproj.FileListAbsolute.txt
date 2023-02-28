@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\bin\Debug\net6.0\PrTh.Persistence.deps.json
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\bin\Debug\net6.0\PrTh.Persistence.dll
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\bin\Debug\net6.0\PrTh.Persistence.pdb
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\bin\Debug\net6.0\PrTh.Application.dll
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\bin\Debug\net6.0\PrTh.Domain.dll
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\bin\Debug\net6.0\PrTh.Application.pdb
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\bin\Debug\net6.0\PrTh.Domain.pdb
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\PrTh.Persistence.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\PrTh.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\PrTh.Persistence.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\PrTh.Persistence.AssemblyInfo.cs
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\PrTh.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\PrTh.Persistence.csproj.CopyComplete
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\PrTh.Persistence.dll
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\refint\PrTh.Persistence.dll
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\PrTh.Persistence.pdb
+C:\Users\HP\source\repos\PT.Backend\PrTh.Persistence\obj\Debug\net6.0\ref\PrTh.Persistence.dll

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\bin\Debug\net6.0\PrTh.Domain.deps.json
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\bin\Debug\net6.0\PrTh.Domain.dll
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\bin\Debug\net6.0\PrTh.Domain.pdb
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\obj\Debug\net6.0\PrTh.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\obj\Debug\net6.0\PrTh.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\obj\Debug\net6.0\PrTh.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\obj\Debug\net6.0\PrTh.Domain.AssemblyInfo.cs
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\obj\Debug\net6.0\PrTh.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\obj\Debug\net6.0\PrTh.Domain.dll
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\obj\Debug\net6.0\refint\PrTh.Domain.dll
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\obj\Debug\net6.0\PrTh.Domain.pdb
+C:\Users\HP\source\repos\PT.Backend\PrTh.Domain\obj\Debug\net6.0\ref\PrTh.Domain.dll
