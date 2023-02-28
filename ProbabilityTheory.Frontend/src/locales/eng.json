@@ -1,0 +1,12 @@
+{
+    "projectName": "Probability Theory handbook",
+    "button": {
+        "ok": "Ok",
+        "confirm": "Confirm",
+        "cancel": "Cancel"
+    },
+    "message": {
+        "warning": "Warning",
+        "delete": "This will be deleted"
+    }
+}
